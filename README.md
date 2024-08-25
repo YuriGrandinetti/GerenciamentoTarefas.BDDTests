@@ -32,5 +32,5 @@ Este repositório contém testes automatizados para o sistema de Gerenciamento d
 
 1. **Clonar o Repositório**:
    ```bash
-   git clone https://github.com/seuusuario/seurepositorio.git
+   git clone https://github.com/YuriGrandinetti/GerenciamentoTarefas.BDDTests.git
    cd seurepositorio

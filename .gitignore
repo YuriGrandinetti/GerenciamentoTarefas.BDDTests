@@ -1,0 +1,12 @@
+ Build Folders
+bin/
+obj/
+
+# Visual Studio specific
+.vscode/
+.vs/
+.vscode/settings.json
+*.suo
+*.user
+*.userosscache
+*.sln.docstates

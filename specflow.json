@@ -1,0 +1,29 @@
+{
+  "exclude": [
+    "**/bin",
+    "**/bower_components",
+    "**/jspm_packages",
+    "**/node_modules",
+    "**/obj",
+    "**/platforms"
+  ],
+  "bindingCulture": {
+    "language": "pt-BR"
+  },
+  "language": {
+    "feature": "pt-BR"
+  },
+  "specFlow": {
+    "trace": {
+      "stepDefinitionSkeletonStyle": "RegularExpression",
+      "traceSuccessfulSteps": true,
+      "minTracedDuration": "0:0:0.1",
+      "logLevel": "Info"
+    },
+    "report": {
+      "skipReporting": false,
+      "showStepTiming": true,
+      "hideEmptyNodes": true
+    }
+  }
+}
